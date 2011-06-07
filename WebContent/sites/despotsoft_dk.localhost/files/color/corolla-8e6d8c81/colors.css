@@ -2,10 +2,10 @@
 
 /* Background */
 body {
-  background-color: #f8f8f8;
+  background-color: #efefdf;
 }
 #header-menu .content > ul > li.active-trail {
-  background-color: #f8f8f8;
+  background-color: #efefdf;
 }
 /* Text (black) */
 body,
@@ -109,14 +109,14 @@ ul.vertical-tabs-list li a {
 /* Block title (green) */
 .block h2,
 h2 {
-  color: #2e2e2e;
+  color: #e25400;
 }
 .block h2::selection {
   color: #ffffff;
-  background-color: #2e2e2e;
+  background-color: #e25400;
 }
 .block h2::-moz-selection {
-  background-color: #2e2e2e;
+  background-color: #e25400;
   color: #ffffff;
 }
 /* Fieldset (gray) */
