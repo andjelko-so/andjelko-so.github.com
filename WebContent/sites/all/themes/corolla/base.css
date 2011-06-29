@@ -6,6 +6,8 @@
 html {
   line-height: 1.5;
   word-wrap: break-word;
+  overflow: -moz-scrollbars-vertical; 
+  overflow-y: scroll;
 }
 
 /**

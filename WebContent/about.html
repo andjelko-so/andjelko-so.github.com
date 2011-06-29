@@ -136,6 +136,41 @@ Longer text should br provided for this page</p>
   </div> 
                 </div> <!-- /#page --> 
  
+ 	 <script type="text/javascript">
+//						alert('nesto');
+						var size = document.getElementById('page').offsetHeight;
+						
+							
+						
+/*						if(size < 400)
+							size = 400;
+						
+						if(size == 712) {
+//							alert('facts');
+							size = 912;
+						}
+						
+//						document.write(navigator.userAgent);
+						
+						if (navigator.userAgent.indexOf('iPad') != -1) {
+							if(size < 900)
+								size = 900;
+//							alert('ipad');
+						}
+						
+						if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1)) {
+							if(size < 1100)
+								size = 1100;
+//							document.getElementById('contentDiv').style.width="100%";
+//							document.getElementById('wrapper').style.width="100%";
+						}
+						
+						var newSize = size + 95;
+						
+						document.getElementById('main').style.height = newSize + 'px';*/
+	//					document.getElementById('eexpeback').style.left   = '203px';
+					</script>
+ 
       <div id="closure" class="clearfix"> 
         <div id="info"> 
           <span id="copyright">© 2011 Despotsoft.</span>
@@ -166,6 +201,56 @@ Longer text should br provided for this page</p>
  
     </div> <!-- /#main-columns --> 
   </div> <!-- /#main-columns-wrapper --> 
+ 
+ <div id="footer-menu-wrapper" style="background-color:#2e2e2e;"> 
+	<div id="footer-menu" style="background-color:#2e2e2e; width: 100%; height: 70px;"> 
+		<div class="region region-header-menu"> 
+    		<div id="block-system-footer-menu" class="block block-system block-menu"> 
+ 					<br />
+ 					<div id="footerMenu" class="content" style="width: 30%; position: relative;"> 
+ 					
+ 						<script type="text/javascript">
+							
+							var size = document.getElementById('page').offsetLeft;
+//							alert(size);
+							document.getElementById('footerMenu').style.left = size + 'px';
+							
+							var windowSize =  window.innerHeight;
+//							alert(windowSize);
+							
+							if(windowSize > document.getElementById('header-menu-wrapper').offsetHeight 
+									+ document.getElementById('header-wrapper').offsetHeight 
+									+ document.getElementById('main-wrapper').offsetHeight 
+									+ document.getElementById('footer-menu').offsetHeight){
+								
+//								alert(document.getElementById('footer-menu').offsetHeight);
+								
+								document.getElementById('footer-menu').style.position = 'absolute';
+								document.getElementById('footer-menu').style.bottom = '-6px';
+								document.getElementById('footer-menu').style.left = '-8px';
+							}
+							
+						</script>
+ 					
+ 					   <ul class="menu">
+ 					    <li class="first leaf active-trail">
+ 					    	<a href="#" style="color: white; background-color: #2e2e2e;">Home</a>
+ 					    </li> 
+						<li class="leaf">
+							<a href="WebContent/about.html" style="color: white; background-color: #2e2e2e;" onmouseover="this.style.backgroundColor= '#E25400';" onmouseout="this.style.backgroundColor= '#2e2e2e';">About</a>
+						</li> 
+						<li class="leaf">
+							<a href="WebContent/references.html" style="color: white; background-color: #2e2e2e;" onmouseover="this.style.backgroundColor= '#E25400';" onmouseout="this.style.backgroundColor= '#2e2e2e';">References</a>
+						</li> 
+						<li class="last leaf">
+							<a href="WebContent/contact.html" style="color: white; background-color: #2e2e2e;" onmouseover="this.style.backgroundColor= '#E25400';" onmouseout="this.style.backgroundColor= '#2e2e2e';">Contact</a>
+						</li> 
+					   </ul>  
+					</div>
+  			</div>
+ 		</div>
+ 	</div>
+  </div>
  
   </body> 
 </html> 
