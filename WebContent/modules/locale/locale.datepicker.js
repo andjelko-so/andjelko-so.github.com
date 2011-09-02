@@ -36,30 +36,30 @@ $.datepicker.regional['drupal-locale'] = {
   ],
   dayNames: [
     Drupal.t('Sunday'),
-    Drupal.t('Monday')
-    Drupal.t('Tuesday')
-    Drupal.t('Wednesday')
-    Drupal.t('Thursday')
-    Drupal.t('Friday')
+    Drupal.t('Monday'),
+    Drupal.t('Tuesday'),
+    Drupal.t('Wednesday'),
+    Drupal.t('Thursday'),
+    Drupal.t('Friday'),
     Drupal.t('Saturday')
   ],
   dayNamesShort: [
-    Drupal.t('Sun')
-    Drupal.t('Mon')
-    Drupal.t('Tue')
-    Drupal.t('Wed')
-    Drupal.t('Thu')
-    Drupal.t('Fri')
+    Drupal.t('Sun'),
+    Drupal.t('Mon'),
+    Drupal.t('Tue'),
+    Drupal.t('Wed'),
+    Drupal.t('Thu'),
+    Drupal.t('Fri'),
     Drupal.t('Sat')
   ],
   dayNamesMin: [
-    Drupal.t('Su')
-    Drupal.t('Mo')
-    Drupal.t('Tu')
-    Drupal.t('We')
-    Drupal.t('Th')
-    Drupal.t('Fr')
-    Drupal.t('Sa')
+    Drupal.t('Su'),
+    Drupal.t('Mo'),
+    Drupal.t('Tu'),
+    Drupal.t('We'),
+    Drupal.t('Th'),
+    Drupal.t('Fr'),
+    Drupal.t('Sa'),
   ],
   dateFormat: Drupal.t('mm/dd/yy'),
   firstDay: Drupal.settings.jqueryuidatepicker.firstDay,
