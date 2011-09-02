@@ -1,0 +1,76 @@
+* Startseite */
+.article_column
+{
+height: 196px !important;
+background:url(WebContent/sites/despotsoft_dk.localhost/files/bg_main_teaser.gif) no-repeat;
+padding: 12px 12px 12px 12px;
+}
+
+.column1
+{
+float: left;
+width: 182px;
+margin: 0 0 0 0px;
+}
+
+.column2
+{
+float: left;
+width: 182px;
+margin: 0 0 0 6px;
+}
+
+.column3
+{
+float: left;
+width: 182px;
+margin: 0 0 0 6px;
+}
+
+.article_row .column1 p,.article_row .column2 p,.article_row .column3 p {
+font: 12px Arial;
+color: #fff;
+}
+
+.article_row .column1 a,.article_row .column2 a,.article_row .column3 a {
+font: 12px Georgia;
+color: #fff;
+text-decoration: none;
+}
+
+.startseite .leading_separator
+{
+border: 0px solid #fff;
+}
+
+div#content-full div#main1 {
+clear: both;
+margin:0 0 0 40px;
+width:630px;
+}
+
+div#content-full p.buttonheading {
+padding:5px 0 5px 0;
+}
+
+p.frontpage_heading
+{
+font: 14px Arial;
+font-weight: bold;
+margin: 0 0 40px 0;
+}
+
+#jflanguageselection ul.jflanguageselection {
+margin-left: 35px;
+}
+
+#subfooter span {
+font-size: 8pt;
+color: #999999;
+padding-top: 10px;
+}
+
+#subfooter span a {
+font-size: 8pt;
+color: #999999;
+}
