@@ -52,6 +52,10 @@ html{font-size:14px;}body.two-sidebars #header-menu,body.two-sidebars #header,bo
 jQuery.extend(Drupal.settings, {"basePath":"\/","ajaxPageState":{"theme":"corolla","theme_token":"kblO_moa5e8tRd077j7VY_NHOhiTdLrfUwpJ0F9fGq8","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/themes\/corolla\/reset.css":1,"0":1,"sites\/all\/themes\/corolla\/base.css":1,"sites\/all\/themes\/corolla\/style.css":1,"sites\/all\/themes\/corolla\/colors.css":1,"sites\/all\/themes\/corolla\/print.css":1,"sites\/all\/themes\/corolla\/ie8.css":1,"sites\/all\/themes\/corolla\/ie7.css":1}}});
 //--><!]]>
 </script> 
+
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+        <script src="../sites/despotsoft_dk.localhost/files/galleria/galleria-1.2.6.min.js"></script>
+
 </head> 
 <body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-3 node-type-page" > 
   <div id="skip-link"> 
@@ -67,7 +71,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","ajaxPageState":{"theme":"coroll
   <div class="content"> 
     <ul class="menu"><li class="first leaf"><a href="home.html">Hjem</a></li> 
 <li class="leaf"><a href="about.html">Om</a></li> 
-<li class="leaf active-trail"><a href="#" class="active-trail active">Referencer</a></li> 
+<li class="leaf active-trail"><a href="references.html" class="active-trail active">Referencer</a></li> 
 <li class="last leaf"><a href="contact.html">Kontakt</a></li> 
 </ul>  </div> 
 </div> 
@@ -128,33 +132,47 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","ajaxPageState":{"theme":"coroll
       
       <br /><br />
      <b> "Marko i Musa" </b> er en traditionel serbisk folkemusik fortælling, om national helt Marko Kraljevic og hans fjende - Musa i Outlaw. <br />
-<!--      <img src="http://qrcode.kaywa.com/img.php?s=6&d=http%3A%2F%2Fhttp%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fbmi-2-go%2Fid471873757%3Fls%3D1%26mt%3D8" alt="qrcode"/>  -->
+		<img src="http://qrcode.kaywa.com/img.php?s=8&d=http%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fmarko-i-musa%2Fid496196250%3Fmt%3D8%26uo%3D4" alt="qrcode"  />
      <br />
 Story er undervisning børn, at brug af vold ikke er nødvendig, og at alt kan løses på fredelig vis.<br />
 Interaktive bog, både på serbisk og engelsk, at for børn lytte interessant historie og lære sproget.<br /><br />
 Universel anvendelse, virker på både iPhone / iPod Touch og iPad
 <br /> <br />
 
+<div id="gallery">
+            <img src="../sites/despotsoft_dk.localhost/files/citelcon/mim_1.PNG" />
+            <img src="../sites/despotsoft_dk.localhost/files/citelcon/mim_5.PNG" />
+            <img src="../sites/despotsoft_dk.localhost/files/citelcon/mim_6.PNG" />
+            <img src="../sites/despotsoft_dk.localhost/files/citelcon/mim_4.PNG" />
+        </div>
+        <script>
+            Galleria.loadTheme('../sites/despotsoft_dk.localhost/files/galleria/themes/classic/galleria.classic.min.js');
+            $("#gallery").galleria({
+                width: 700,
+                height: 500
+            });
+        </script>
+
+<br />
+
+
+<br />
 <table width="100%">
  <tr>
  <td width="25%">
-  <img src="../sites/despotsoft_dk.localhost/files/citelcon/mim_1.png" alt="Marko i Musa - main page" width="120px;" />
+	iPhone application: 
  </td>
  <td width="25%">
-  <img src="../sites/despotsoft_dk.localhost/files/citelcon/mim_5.png" alt="Marko i Musa - naslovna" width="120px;" />
+	<a href="http://itunes.apple.com/us/app/marko-i-musa/id496196250?mt=8&uo=4" target="itunes_store"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-lrg.gif" alt="Marko i Musa - Despotsoft ApS" style="border: 0;"/></a>
  </td>
  <td width="25%">
-  <img src="../sites/despotsoft_dk.localhost/files/citelcon/mim_6.png" alt="Marko i Musa - page" width="120px;" />
+	iPad application:
  </td>
  <td width="25%">
-  <img src="../sites/despotsoft_dk.localhost/files/citelcon/mim_4.png" alt="Marko i Musa - carolija" width="120px;" />
+ 	<a href="http://itunes.apple.com/us/app/marko-i-musa/id496196250?mt=8&uo=4" target="itunes_store"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-lrg.gif" alt="Marko i Musa - Despotsoft ApS" style="border: 0;"/></a>
  </td>
  </tr>
  </table>
-<br />
-
-<br />
-<!--      <a href="http://itunes.apple.com/us/app/bmi-2-go/id471873757?ls=1&mt=8" title="">Visit us on app store</a>  --> 
     </div>
         
          
@@ -199,7 +217,7 @@ Universel anvendelse, virker på både iPhone / iPod Touch og iPad
 		    <ul class="language-switcher-locale-session">
 		    
 		    	<li class="da first active"><a href="#"><span></span>Dansk</a></li> 
-				<li class="en active"><a href="../page_bmi2go.html"><span></span>English</a></li>
+				<li class="en active"><a href="../page_marko_i_musa.html"><span></span>English</a></li>
 			</ul>  
 		  </div>
   
@@ -266,7 +284,7 @@ Universel anvendelse, virker på både iPhone / iPod Touch og iPad
 					   	<li>
 							<div id="fb-root"></div>
 							<script src="http://connect.facebook.net/en_US/all.js#appId=111473445614077&amp;xfbml=1"></script>
-							<fb:like href="http://www.despotsoft.dk/" send="false" layout="button_count" width="50" show_faces="true" colorscheme="dark" font=""></fb:like>
+							<fb:like href="http://www.despotsoft.dk/WebContent/da/page_marko_i_musa.html" send="false" layout="button_count" width="50" show_faces="true" colorscheme="dark" font=""></fb:like>
 						</li>
 						<li>
 							<a href="http://twitter.com/despotsoft" class="twitter-follow-button" data-button="grey" data-text-color="#FFFFFF" data-link-color="#00AEFF" data-show-count="false" data-width="150px">Follow @despotsoft</a>

@@ -52,6 +52,10 @@ html{font-size:14px;}body.two-sidebars #header-menu,body.two-sidebars #header,bo
 jQuery.extend(Drupal.settings, {"basePath":"\/","ajaxPageState":{"theme":"corolla","theme_token":"kblO_moa5e8tRd077j7VY_NHOhiTdLrfUwpJ0F9fGq8","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/themes\/corolla\/reset.css":1,"0":1,"sites\/all\/themes\/corolla\/base.css":1,"sites\/all\/themes\/corolla\/style.css":1,"sites\/all\/themes\/corolla\/colors.css":1,"sites\/all\/themes\/corolla\/print.css":1,"sites\/all\/themes\/corolla\/ie8.css":1,"sites\/all\/themes\/corolla\/ie7.css":1}}});
 //--><!]]>
 </script> 
+
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+        <script src="sites/despotsoft_dk.localhost/files/galleria/galleria-1.2.6.min.js"></script>
+
 </head> 
 <body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-3 node-type-page" > 
   <div id="skip-link"> 
@@ -67,7 +71,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","ajaxPageState":{"theme":"coroll
   <div class="content"> 
     <ul class="menu"><li class="first leaf"><a href="../index.html">Home</a></li> 
 <li class="leaf"><a href="about.html">About</a></li> 
-<li class="leaf active-trail"><a href="#" class="active-trail active">References</a></li> 
+<li class="leaf active-trail"><a href="references.html" class="active-trail active">References</a></li> 
 <li class="last leaf"><a href="contact.html">Contact</a></li> 
 </ul>  </div> 
 </div> 
@@ -130,22 +134,23 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","ajaxPageState":{"theme":"coroll
 <br /><br />
 Along with this, <b>FitnessLog</b> application have large library of example exercises, followed with images, description of usage, sample trainings for different categories of users, estimated calorie burn for sample trainings. Although this library is large, we are aware that needs of each individual user could spread indefinitely. Therefore, you can always easily add more and more exercises to the library.
 <br /><br />
-<table width="100%">
- <tr>
- <td width="25%">
-  <img src="sites/despotsoft_dk.localhost/files/citelcon/fl-main.png" alt="CWA" width="120px;" />
- </td>
- <td width="25%">
-  <img src="sites/despotsoft_dk.localhost/files/citelcon/fl-exercise.png" alt="Main Page" width="120px;" />
- </td>
- <td width="25%">
-  <img src="sites/despotsoft_dk.localhost/files/citelcon/fl-program.png" alt="CWA" width="120px;" />
- </td>
- <td width="25%">
-  <img src="sites/despotsoft_dk.localhost/files/citelcon/fl-personal.png" alt="CWA" width="120px;" />
- </td>
- </tr>
- </table>
+
+<div id="gallery">
+            <img src="sites/despotsoft_dk.localhost/files/citelcon/fl1.png" />
+            <img src="sites/despotsoft_dk.localhost/files/citelcon/fl2.png" />
+            <img src="sites/despotsoft_dk.localhost/files/citelcon/fl3.png" />
+            <img src="sites/despotsoft_dk.localhost/files/citelcon/fl4.png" />
+            <img src="sites/despotsoft_dk.localhost/files/citelcon/fl5.png" />
+        </div>
+        <script>
+            Galleria.loadTheme('sites/despotsoft_dk.localhost/files/galleria/themes/classic/galleria.classic.min.js');
+            $("#gallery").galleria({
+                width: 700,
+                height: 500
+            });
+        </script>
+
+
  <br /><br />
 Since you always carry your phone with you, you need to be able to personalize your application. That's why, we have added ability for you to enter personal details, and, of course, to connect your application to the Facebook profile. Based on this personal data, you can calculate BMI and ideal weight.
 <br /><br />

@@ -52,6 +52,10 @@ html{font-size:14px;}body.two-sidebars #header-menu,body.two-sidebars #header,bo
 jQuery.extend(Drupal.settings, {"basePath":"\/","ajaxPageState":{"theme":"corolla","theme_token":"kblO_moa5e8tRd077j7VY_NHOhiTdLrfUwpJ0F9fGq8","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/themes\/corolla\/reset.css":1,"0":1,"sites\/all\/themes\/corolla\/base.css":1,"sites\/all\/themes\/corolla\/style.css":1,"sites\/all\/themes\/corolla\/colors.css":1,"sites\/all\/themes\/corolla\/print.css":1,"sites\/all\/themes\/corolla\/ie8.css":1,"sites\/all\/themes\/corolla\/ie7.css":1}}});
 //--><!]]>
 </script> 
+
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+        <script src="../sites/despotsoft_dk.localhost/files/galleria/galleria-1.2.6.min.js"></script>
+
 </head> 
 <body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-3 node-type-page" > 
   <div id="skip-link"> 
@@ -67,7 +71,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","ajaxPageState":{"theme":"coroll
   <div class="content"> 
     <ul class="menu"><li class="first leaf"><a href="home.html">Hjem</a></li> 
 <li class="leaf"><a href="about.html">Om</a></li> 
-<li class="leaf active-trail"><a href="#" class="active-trail active">Referencer</a></li> 
+<li class="leaf active-trail"><a href="references.html" class="active-trail active">Referencer</a></li> 
 <li class="last leaf"><a href="contact.html">Kontakt</a></li> 
 </ul>  </div> 
 </div> 
@@ -130,6 +134,20 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","ajaxPageState":{"theme":"coroll
  <br /> <br />
 Hovedafsnittet af <b> Citelcon CWA </b> programmet er "CV" - web-applikation, hvor konsulenter kan registrere og indtaste deres personlige og faglige detaljer. Baseret på deres data, kunne standardiseret CV dokument blive genereret. Også <b> Citelcon CWA </b> har en liste over tilgængelige åbne job, hvor konsulenter kunne finde anvendelse.
  <br /> <br />
+ 
+ <div id="gallery">
+            <img src="../sites/despotsoft_dk.localhost/files/citelcon/cit-cwa.png" />
+            <img src="../sites/despotsoft_dk.localhost/files/citelcon/cit-main.png" />
+            <img src="../sites/despotsoft_dk.localhost/files/citelcon/cit-references.png" />
+        </div>
+        <script>
+            Galleria.loadTheme('../sites/despotsoft_dk.localhost/files/galleria/themes/classic/galleria.classic.min.js');
+            $("#gallery").galleria({
+                width: 700,
+                height: 500
+            });
+        </script>
+ 
  <table width="100%">
  <tr>
  <td width="30%">
