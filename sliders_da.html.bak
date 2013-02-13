@@ -354,7 +354,7 @@ input[type=text],input[type=password],textarea{width:12.25em;*width:11.9em;}
             align="justify">
             <ul style="width: 783px; height: 29px;">
               <li style="float: left; list-style-type: none; padding: 11px 21px 11px 21px;">
-                <a style="float: left;" href="voicebo.html"> <font color="#ffffff"
+                <a style="float: left;" href="sliders.html"> <font color="#ffffff"
                     face="Verdana">English
                     </font> </a> </li>
               <li style="float: left; list-style-type: none; padding: 11px 21px 11px 21px;">
@@ -395,7 +395,7 @@ input[type=text],input[type=password],textarea{width:12.25em;*width:11.9em;}
                 <td style="width: 116px;"><a href="voicebo_da.html"><img alt="previous"
                       src="leftarrow.png"></a><br>
                 </td>
-                <td style="width: 513px;" align="center"><img alt="VoiceBo" src="sliders3.PNG"
+                <td style="width: 513px;" align="center"><img alt="Sliders" src="Sliders.png"
                     width="287"><br>
                 </td>
                 <td style="margin-left: 168px;"><a href="markoimusa_da.html"><img

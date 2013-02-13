@@ -394,7 +394,8 @@ input[type=text],input[type=password],textarea{width:12.25em;*width:11.9em;}
                 <td style="width: 116px;"><a href="voicebo.html"><img alt="previous"
                       src="leftarrow.png"></a><br>
                 </td>
-                <td style="width: 513px;" align="center"><img alt="VoiceBo" src="sliders3.PNG"
+                <td style="width: 513px;" align="center"><img alt="Sliders"
+                    src="Sliders.png"
                     width="287"><br>
                 </td>
                 <td style="margin-left: 168px;"><a href="markoimusa.html"><img alt="next"
@@ -469,6 +470,5 @@ input[type=text],input[type=password],textarea{width:12.25em;*width:11.9em;}
         <div id="bd"> </div>
       </div>
     </div>
-    
   </body>
 </html>
