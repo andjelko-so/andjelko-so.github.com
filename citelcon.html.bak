@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
-    <title>Despotsoft | Bukvar</title>
+    <title>Despotsoft | Citelcon</title>
     <style type="text/css">
 html {
   background-color: white;
@@ -354,33 +354,32 @@ input[type=text],input[type=password],textarea{width:12.25em;*width:11.9em;}
             align="justify">
             <ul style="width: 783px; height: 29px;">
               <li style="float: left; list-style-type: none; padding: 11px 21px 11px 21px;">
-                <a style="float: left;" href="bukvar.html"> <font color="#ffffff"
-                    face="Verdana">English
+                <a style="float: left;" href=""> <font color="#F6862D" face="Verdana">English
                     </font> </a> </li>
               <li style="float: left; list-style-type: none; padding: 11px 21px 11px 21px;">
-                <a style="float: left;" href="bukvar_da.html"> <font color="#F6862D"
+                <a style="float: left;" href="citelcon_da.html"> <font color="#ffffff"
                     face="Verdana">Dansk
                     </font> </a> </li>
               <li style="width: 47px; float: left; list-style-type: none; padding: 11px 21px 11px 21px;">
                 &nbsp; </li>
               <li style="float: left; list-style-type: none; padding: 11px 21px 11px 21px;">
-                <a style="float: left;" href="index_da.html"> <font color="#ffffff"
-                    face="Verdana">HJEM
+                <a style="float: left;" href="index.html"> <font color="#ffffff"
+                    face="Verdana">HOME
                     </font> </a> </li>
               <li style="float: left; list-style-type: none; padding: 11px 21px 11px 21px;">
-                <a style="float: left;" href="about_da.html"> <font color="#ffffff"
-                    face="Verdana">OM
+                <a style="float: left;" href="about.html"> <font color="#ffffff"
+                    face="Verdana">ABOUT
                     </font> </a> </li>
               <li style="float: left; list-style-type: none; padding: 11px 21px 11px 21px;">
-                <a style="float: left;" href=""> <font color="#F6862D" face="Verdana">REFERENCER
+                <a style="float: left;" href=""> <font color="#F6862D" face="Verdana">REFERENCES
                     </font> </a> </li>
               <li style="float: left; list-style-type: none; padding: 11px 21px 11px 21px;">
-                <a style="float: left;" href="partners_da.html"> <font color="#ffffff"
-                    face="Verdana">PARTNERE
+                <a style="float: left;" href="partners.html"> <font color="#ffffff"
+                    face="Verdana">PARTNERS
                     </font> </a> </li>
               <li style="float: left; list-style-type: none; padding: 11px 21px 11px 21px;">
-                <a style="float: left;" href="contact_da.html"> <font color="#ffffff"
-                    face="Verdana">KONTAKT
+                <a style="float: left;" href="contact.html"> <font color="#ffffff"
+                    face="Verdana">CONTACTS
                     </font> </a> </li>
             </ul>
           </div>
@@ -392,59 +391,37 @@ input[type=text],input[type=password],textarea{width:12.25em;*width:11.9em;}
           <table border="0" width="100%">
             <tbody>
               <tr>
-                <td style="width: 116px;"><a href="markoivila_da.html"><img alt="previous"
+                <td style="width: 116px;"><a href="fitnesslog.html"><img alt="previous"
                       src="leftarrow.png"></a><br>
                 </td>
-                <td style="width: 513px;"><img alt="Bukvar" src="bukvar_6.PNG" width="587"><br>
+                <td style="width: 513px;"><img alt="Citelcon" src="cit-cwa.png"
+                    width="587"><br>
                 </td>
-                <td style="margin-left: 168px;"><a href="bmi2go_da.html"><img alt="next"
+                <td style="margin-left: 168px;"><a href="voicebo.html"><img alt="next"
                       src="rightarrow.png"></a><br>
                 </td>
               </tr>
               <tr>
                 <td colspan="3" rowspan="1"><br>
-                  <h1><font color="#F6862D" face="Verdana">Bukvar</font></h1>
+                  <h1><font color="#F6862D" face="Verdana">Citelcon</font></h1>
                   <br>
-                  <b>"Bukvar"</b>
-                  <meta charset="utf-8">
-                  <span style="color: rgb(46, 46, 46); font-family: Arial, FreeSans, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 300; letter-spacing: normal; line-height: 21px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">-
-                    er en interaktiv alfabet app der gøre det let at lære det
-                    serbiske alfabet.<span class="Apple-converted-space">&nbsp;</span></span>
-                  <div align="center"><img src="http://qrcode.kaywa.com/img.php?s=8&amp;d=http%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fbukvar%2Fid505980433%3Fmt%3D8%26uo%3D4"
-                      alt="qrcode"><br>
-                  </div>
-                  <div align="justify"> Anvendelse: Brug simple spil, der gøre
-                    det let for børn at læse, skrive og udtale ordene på
-                    kyrillisk og latin. <br>
+                  <div align="justify"><b>Citelcon - CWA (Consultant Web Access)</b> is web page,
+designed and developed for Citelcon's large network of IT
+consultants. This web application is developed with purpose
+of organizing and centralizing knowledge base of registered
+consultants.
+<br><br>
+                    Main section of <b>Citelcon CWA</b> application is "CV" - web
+application where consultants can register and enter their personal
+and professional details. Based on their data standardized CV
+document could be generated. Also, <b>Citelcon CWA</b> have list of
+available open jobs, where consultants could apply. <br>
                     <br>
-                    Alle korrekte svar bliver efterfulgt af fyrværkeri. <br>
-                    <br>
-                    Universel anvendelse, virker på både iPhone / iPod Touch og
-                    iPad <br>
+                    Visit it, and try <a href="http://www.citelcon.com/"><b><font
+                          color="#F6862D">Citelcon
+                          CWA</font></b></a> out. <br>
                   </div>
                   <br>
-                  <br>
-                  <br>
-                  <table width="100%">
-                    <tbody>
-                      <tr>
-                        <td width="25%"> iPhone application: </td>
-                        <td width="25%"> <a href="http://itunes.apple.com/us/app/bukvar/id505980433?mt=8&amp;uo=4"
-                            target="itunes_store"><img
-                              src="http://r.mzstatic.com/images/web/linkmaker/badge_appstore-lrg.gif"
-                              alt="Bukvar - Despotsoft ApS"
-                              style="border: 0;"></a>
-                        </td>
-                        <td width="25%"> iPad application: </td>
-                        <td width="25%"> <a href="http://itunes.apple.com/us/app/bukvar/id505980433?mt=8&amp;uo=4"
-                            target="itunes_store"><img
-                              src="http://r.mzstatic.com/images/web/linkmaker/badge_appstore-lrg.gif"
-                              alt="Bukvar - Despotsoft ApS"
-                              style="border: 0;"></a>
-                        </td>
-                      </tr>
-                    </tbody>
-                  </table>
                 </td>
               </tr>
             </tbody>
@@ -464,6 +441,5 @@ input[type=text],input[type=password],textarea{width:12.25em;*width:11.9em;}
         <div id="bd"> </div>
       </div>
     </div>
-    
   </body>
 </html>

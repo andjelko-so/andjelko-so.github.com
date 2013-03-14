@@ -407,31 +407,25 @@ input[type=text],input[type=password],textarea{width:12.25em;*width:11.9em;}
                 <td colspan="3" rowspan="1"><br>
                   <h1><font color="#F6862D" face="Verdana">Sliders (outsourcet)</font></h1>
                   <br>
-                  <div align="justify"><b>Sliders</b> helps you track 'how you
-                    feel' about your diet, your week, your workout, your
-                    headache or anything else with a subjective measure that
-                    you’d like to monitor.
+                  <div align="justify"><b>Sliders</b> hjælper dig med at følge op på din slankekur, din uge, din træning, endda
+din hovedpine og alt andet du kunne tænke dig at måle.
                     <meta charset="utf-8">
                   </div>
                   <div align="center"><img src="http://qrfree.kaywa.com/?l=1&amp;s=8&amp;d=https%3A%2F%2Fitunes.apple.com%2Fapp%2Fsliders-track-how-you-feel%2Fid597174171%3Fls%3D1%26mt%3D8"
                       alt="QRCode"><br>
                   </div>
-                  <div align="justify"> Create reminders, view and export
-                    graphs, share with friends - all with a quick swipe of your
-                    thumb. <br>
+                  <div align="justify"> Lav påmindelser, se grafer og del det med venner, ved bare et enkelt klip. <br>
                     <br>
-                    - You don't need a heart rate monitor to tell you you've had
-                    a good workout<br>
-                    - You don't need a calorie counting system to tell when
-                    you're eating junk food<br>
-                    - You don't need a complex questionnaire to track your mood<br>
-                    - You know pretty well by feel, and you can track and use
-                    that.
+                    - Du har ikke brug for en hjertemåler, til at fortælle dig at du har haft en
+god træning.<br>
+                    - Du har ikke brug for en kaloriemåler, til at fortælle dig hvornår du har
+spist junk food.<br>
+                    - Du har ikke brug for et spørgeskema, for at finde ud af hvilket humør du
+er i.<br>
+                    - Den sidste sætning giver ikke mening på engelsk
                     <ul>
                     </ul>
                     <br>
-                    Fast subjective evaluation is all you need to make real
-                    personal change happen! <br>
                     <b></b><br>
                   </div>
                   <br>
@@ -471,6 +465,5 @@ input[type=text],input[type=password],textarea{width:12.25em;*width:11.9em;}
         <div id="bd"> </div>
       </div>
     </div>
-    
   </body>
 </html>
