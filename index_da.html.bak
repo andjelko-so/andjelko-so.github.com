@@ -371,7 +371,7 @@ input[type=text],input[type=password],textarea{width:12.25em;*width:11.9em;}
                     face="Verdana">OM
                     </font> </a> </li>
               <li style="float: left; list-style-type: none; padding: 11px 21px 11px 21px;">
-                <a style="float: left;" href="markoimusa_da.html"> <font color="#ffffff"
+                <a style="float: left;" href="sliders_da.html"> <font color="#ffffff"
                     face="Verdana">REFERENCER
                     </font> </a> </li>
               <li style="float: left; list-style-type: none; padding: 11px 21px 11px 21px;">
@@ -397,18 +397,25 @@ input[type=text],input[type=password],textarea{width:12.25em;*width:11.9em;}
                         src="phone.png"><br>
                     </tt></td>
                   <td style="margin-left: -57px; vertical-align:top" colspan="2">
-                    <h1 style="width: 497px;"><font color="#F6862D" face="Verdana">I
-                        want to create iPhone/iPad application, to connect it
-                        with a existing project.</font></h1>
+                    <h1 style="width: 497px;"><font color="#F6862D" face="Verdana">Jeg vil lave en iPhone/iPad applikation, til et eksisterende projekt.</font></h1>
                     <p><font face="Verdana"><br>
                       </font></p>
                     <p style="width: 490px;" align="justify">
                       <meta charset="utf-8">
-                      <font face="Verdana"><span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: Arial, FreeSans, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 300; letter-spacing: normal; line-height: 21px; orphans: 2; text-align: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><span
+                      <font face="Verdana"><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;"><span
                             class="Apple-style-span"
-                            style="color: rgb(46, 46, 46); ">Vores specialister dækker alle aspekter af web og mobile tjenester, herunder iOS (iPhone og iPad) og Android udvikling, website design, udvikling, SEO, grafik og print design. I kan lade alle udviklings projekterne til os, og vi vil tage os af alle jeres behov.
-<br><br>
-Vi ønsker at sikre slutproduktet, så det ikke kun bliver en repræsentation af vores kunders visioner, men at produktet også er med til at maksimere resultaterne og væksten af virksomheden samt den individuelle.</span></span></font></p>
+                            style="color: rgb(46, 46, 46); ">Vores
+                            specialister dækker alle aspekter af web og mobile
+                            tjenester, herunder iOS (iPhone og iPad) og Android
+                            udvikling, website design, udvikling, SEO, grafik og
+                            print design. I kan lade alle udviklings projekterne
+                            til os, og vi vil tage os af alle jeres behov. <br>
+                            <br>
+                            Vi ønsker at sikre slutproduktet, så det ikke kun
+                            bliver en repræsentation af vores kunders visioner,
+                            men at produktet også er med til at maksimere
+                            resultaterne og væksten af virksomheden samt den
+                            individuelle.</span></span></font></p>
                     <h1><tt></tt></h1>
                     <tt><br>
                       <br>
