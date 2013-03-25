@@ -391,14 +391,13 @@ input[type=text],input[type=password],textarea{width:12.25em;*width:11.9em;}
           <table border="0" width="100%">
             <tbody>
               <tr>
-                <td style="width: 116px;"><a href="voicebo.html"><img alt="previous"
+                <td style="width: 116px;"><a href="citelcon.html"><img alt="previous"
                       src="leftarrow.png"></a><br>
                 </td>
-                <td style="width: 513px;" align="center"><img alt="Sliders"
-                    src="Sliders.png"
+                <td style="width: 513px;" align="center"><img alt="Sliders" src="Sliders.png"
                     width="287"><br>
                 </td>
-                <td style="margin-left: 168px;"><a href="markoimusa.html"><img alt="next"
+                <td style="margin-left: 168px;"><a href="voicebo.html"><img alt="next"
                       src="rightarrow.png"></a><br>
                 </td>
               </tr>
@@ -406,10 +405,11 @@ input[type=text],input[type=password],textarea{width:12.25em;*width:11.9em;}
                 <td colspan="3" rowspan="1"><br>
                   <h1><font color="#F6862D" face="Verdana">Sliders (outsourced)</font></h1>
                   <br>
+                  <font face="Verdana"><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">
                   <div align="justify"><b>Sliders</b> helps you track 'how you
-                    feel' about your diet, your week, your workout, your
-                    headache or anything else with a subjective measure that
-                    you’d like to monitor.
+                    feel' about your diet, your week, your workout,
+                    your headache or anything else with a subjective measure
+                    that you’d like to monitor.
                     <meta charset="utf-8">
                   </div>
                   <div align="center"><img src="http://qrfree.kaywa.com/?l=1&amp;s=8&amp;d=https%3A%2F%2Fitunes.apple.com%2Fapp%2Fsliders-track-how-you-feel%2Fid597174171%3Fls%3D1%26mt%3D8"
@@ -433,6 +433,7 @@ input[type=text],input[type=password],textarea{width:12.25em;*width:11.9em;}
                     personal change happen! <br>
                     <b></b><br>
                   </div>
+                    </span></font>
                   <br>
                   <table width="100%">
                     <tbody>

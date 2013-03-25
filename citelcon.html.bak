@@ -397,7 +397,7 @@ input[type=text],input[type=password],textarea{width:12.25em;*width:11.9em;}
                 <td style="width: 513px;"><img alt="Citelcon" src="cit-cwa.png"
                     width="587"><br>
                 </td>
-                <td style="margin-left: 168px;"><a href="voicebo.html"><img alt="next"
+                <td style="margin-left: 168px;"><a href="sliders.html"><img alt="next"
                       src="rightarrow.png"></a><br>
                 </td>
               </tr>
@@ -405,22 +405,25 @@ input[type=text],input[type=password],textarea{width:12.25em;*width:11.9em;}
                 <td colspan="3" rowspan="1"><br>
                   <h1><font color="#F6862D" face="Verdana">Citelcon</font></h1>
                   <br>
-                  <div align="justify"><b>Citelcon - CWA (Consultant Web Access)</b> is web page,
-designed and developed for Citelcon's large network of IT
-consultants. This web application is developed with purpose
-of organizing and centralizing knowledge base of registered
-consultants.
-<br><br>
-                    Main section of <b>Citelcon CWA</b> application is "CV" - web
-application where consultants can register and enter their personal
-and professional details. Based on their data standardized CV
-document could be generated. Also, <b>Citelcon CWA</b> have list of
-available open jobs, where consultants could apply. <br>
+                  <font face="Verdana"><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">
+                  <div align="justify"><b>Citelcon - CWA (Consultant Web Access)</b>
+                    is web page, designed and developed for
+                    Citelcon's large network of IT consultants. This web
+                    application is developed with purpose of organizing and
+                    centralizing knowledge base of registered consultants. <br>
+                    <br>
+                    Main section of <b>Citelcon CWA</b> application is "CV" -
+                    web application where consultants can register and enter
+                    their personal and professional details. Based on their data
+                    standardized CV document could be generated. Also, <b>Citelcon
+                      CWA</b> have list of available open jobs, where
+                    consultants could apply. <br>
                     <br>
                     Visit it, and try <a href="http://www.citelcon.com/"><b><font
                           color="#F6862D">Citelcon
                           CWA</font></b></a> out. <br>
                   </div>
+                    </span></font>
                   <br>
                 </td>
               </tr>
