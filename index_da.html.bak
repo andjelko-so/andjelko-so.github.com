@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
-    <title>Despotsoft | Home</title>
+    <title>Citelcon | Home</title>
     <style type="text/css">
 html {
   background-color: white;
@@ -124,9 +124,9 @@ body {
 }
 #doc3 {
   margin-top: auto;
-  margin-right: 10px;
+  margin-right: 0px;
   margin-bottom: auto;
-  margin-left: 10px;
+  margin-left: 0px;
   width: auto;
 }
 #doc4 {
@@ -338,174 +338,187 @@ th{font-weight:bold;text-align:center;}
 caption{margin-bottom:.5em;text-align:center;}
 p,fieldset,table,pre{margin-bottom:1em;}
 input[type=text],input[type=password],textarea{width:12.25em;*width:11.9em;}
+a{text-decoration:none}
     
-    
-</style><meta content="Despotsoft" name="author">
+</style><meta content="Citelcon" name="author">
     <meta content="BlueGriffon wysiwyg editor" name="generator">
   </head>
-  <body>
+  <body style="">
     <div class="yui-t7" id="doc3">
       <div id="hd">
-        <div id="header" style="background-color: #F6862D; height: 205px;">
-          <div id="centralImage" style="width: 783px; margin-left: auto; margin-right: auto; margin-top: 0px;">
+        <div id="header" style="background-color: #C4CACF; height: 111px;">
+          <div id="upperText" style="background-color: #000000; height: 20px;">
+            <div style="width: 783px; margin-left: auto; margin-right: auto;" border="0"
+              align="justify">
+              <p><font color="#FFFFFF" face="Verdana"> You are here:
+                  Home </font></p>
+            </div>
+          </div>
+          <div id="centralImage" style="width: 783px; height: 144px; margin-left: auto; margin-right: auto; margin-top: 0px;">
             <img alt="logo" src="header.png" width="783px;"> </div>
-          <div style="width: 783px; height: 28px; margin-left: auto; margin-right: auto; position: relative; top: -36px;"
+          <div style="width: 783px; height: 28px; margin-left: auto; margin-right: auto; position: relative; top: -69px;"
             border="0"
             align="justify">
+            <br>
             <ul style="width: 783px; height: 29px;">
-              <li style="float: left; list-style-type: none; padding: 11px 21px 11px 21px;">
-                <a style="float: left;" href="index.html"> <font color="#ffffff"
-                    face="Verdana">English
-                    </font> </a> </li>
-              <li style="float: left; list-style-type: none; padding: 11px 21px 11px 21px;">
-                <a style="float: left;" href="index_da.html"> <font color="#F6862D"
-                    face="Verdana">Dansk
-                    </font> </a> </li>
-              <li style="width: 47px; float: left; list-style-type: none; padding: 11px 21px 11px 21px;">
+              <li style="width: 47px; float: left; list-style-type: none; padding: 11px 1px 1px 1px;">
                 &nbsp; </li>
-              <li style="float: left; list-style-type: none; padding: 11px 21px 11px 21px;">
-                <a style="float: left;" href=""> <font color="#F6862D" face="Verdana">HJEM
+              <li style="float: left; list-style-type: none; padding: 5px 51px 11px 51px;">
+                <a style="float: left;" href="index_da.html"> <font color="#FF0000"
+                    face="Verdana">Hjem
                     </font> </a> </li>
-              <li style="float: left; list-style-type: none; padding: 11px 21px 11px 21px;">
-                <a style="float: left;" href="about_da.html"> <font color="#ffffff"
-                    face="Verdana">OM
+              <li style="float: left; list-style-type: none; padding: 5px 61px 11px 41px;">
+                <a style="float: left;" href="about_da.html"> <font color="#FF0000"
+                    face="Verdana">Om
                     </font> </a> </li>
-              <li style="float: left; list-style-type: none; padding: 11px 21px 11px 21px;">
-                <a style="float: left;" href="sliders_da.html"> <font color="#ffffff"
-                    face="Verdana">REFERENCER
+              <li style="float: left; list-style-type: none; padding: 5px 51px 11px 51px;">
+                <a style="float: left;" href="contact_da.html"> <font color="#FF0000"
+                    face="Verdana">Kontakt
                     </font> </a> </li>
-              <li style="float: left; list-style-type: none; padding: 11px 21px 11px 21px;">
-                <a style="float: left;" href="partners_da.html"> <font color="#ffffff"
-                    face="Verdana">PARTNERE
+              <li style="float: left; list-style-type: none; padding: 5px 31px 11px 31px;">
+                <a style="float: left;" href="jobs_da.html"> <font color="#FF0000"
+                    face="Verdana">Jobs
                     </font> </a> </li>
-              <li style="float: left; list-style-type: none; padding: 11px 21px 11px 21px;">
-                <a style="float: left;" href="contact_da.html"> <font color="#ffffff"
-                    face="Verdana">KONTAKT
+              <li style="float: left; list-style-type: none; padding: 5px 21px 11px 66px;">
+                <a style="float: left;" href="references_da.html"> <font color="#FF0000"
+                    face="Verdana">Referencer
+                    </font> </a> </li>
+              <li style="float: left; list-style-type: none; padding: 5px 1px 11px 41px;">
+                <a style="float: left;" href="http://cvnav2.dk/"> <font color="#FF0000"
+                    face="Verdana">CV
                     </font> </a> </li>
             </ul>
           </div>
-        </div>
-        <div style="width: 783px; margin-left: auto; margin-right: auto;">
-          <p><br>
-            <br>
-          </p>
-          <div style="width: 783px; margin-left: auto; margin-right: auto;">
-            <table style="width: 783px; height: 744px;" border="0">
-              <tbody>
-                <tr>
-                  <td style="width: 226px; vertical-align:top"><tt><img alt="phone"
-                        src="phone.png"><br>
-                    </tt></td>
-                  <td style="margin-left: -57px; vertical-align:top" colspan="2">
-                    <h1 style="width: 497px;"><font color="#F6862D" face="Verdana">Jeg
-                        vil lave en iPhone/iPad applikation, til et eksisterende
-                        projekt.</font></h1>
-                    <p><font face="Verdana"><br>
-                      </font></p>
-                    <p style="width: 490px;" align="justify">
-                      <meta charset="utf-8">
-                      <font face="Verdana"><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;"><span
-                            class="Apple-style-span"
-                            style="color: rgb(46, 46, 46); ">Vores
-                            specialister dækker alle aspekter af web og mobile
-                            tjenester, herunder iOS (iPhone og iPad) og Android
-                            udvikling, website design, udvikling, SEO, grafik og
-                            print design. I kan lade alle udviklings projekterne
-                            til os, og vi vil tage os af alle jeres behov. <br>
-                            <br>
-                            Vi ønsker at sikre slutproduktet, så det ikke kun
-                            bliver en repræsentation af vores kunders visioner,
-                            men at produktet også er med til at maksimere
-                            resultaterne og væksten af virksomheden samt den
-                            individuelle.</span></span></font></p>
-                    <h1><tt></tt></h1>
-                    <tt><br>
-                      <br>
-                    </tt><tt><br>
-                    </tt></td>
-                </tr>
-                <tr>
-                  <td style="height: 345px; width: 242px;" colspan="3">
-                    <meta charset="utf-8">
-                    <span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: Arial, FreeSans, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 300; letter-spacing: normal; line-height: 21px; orphans: 2; text-align: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><span
-                        class="Apple-style-span"
-                        style="color: rgb(46, 46, 46); "></span></span><br>
-                    <meta charset="utf-8">
-                    <h1 style="width: 497px;"><font color="#F6862D" face="Verdana">Hvem
-                        vi er.<br>
-                      </font></h1>
-                    <p style="width: 783px;" align="justify"> <font face="Verdana"><span
-                          style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">
-                          Nutidens verden er hurtig på farten og hvis man skal
-                          følge med, skal man have svar til hverdagens krav.
-                          Disse krav omhandler skabning af bedre teknologiske
-                          løsninger.<br>
-                          Som start skal man sætte sig i perspektiv af sin egen
-                          position på det globale market - Apples App Store. Med
-                          mere end 800.000 forskellige iPhone og iPad
-                          applikationer tilgænglig, kræver det mere end bare at
-                          "lave en applikation" hvis man skal forblive synlig i
-                          denne branche, man skal konstant arbejde og være
-                          innovativ. <br>
-                          <br>
-                          Hos <b>Despotsoft</b> har vi indset hvad der skal til
-                          - innovation. Du vil finde svar og løsninger på
-                          spørgsmål der bliver stillet i nutidens verden som er
-                          velkendt og er blevet testet. Vi ved at det kræver
-                          mod, fantasi, udholdenhed til at være innovativ. <br>
-                          <br>
-                          En konstant kreativ boost er vores hovedmål. Pga. den
-                          kreative tilgang er det lettere at løse dagens behov.
-                          Vores filosofi er skabe kreative løsninger, ideer og
-                          design. Vores mission hos Despotsoft er at skabe en
-                          let brugelig, omkostnings effektiv og teknisk
-                          forsvarlige løsninger. Uanset om vi laver arbejdet til
-                          os selv eller for vores klienter, gøre vi altid
-                          arbejdet ordentligt.</span></font></p>
-                    <p style="width: 783px;" align="justify"><br>
-                      <font face="Verdana"><span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: Arial, FreeSans, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 300; letter-spacing: normal; line-height: 21px; orphans: 2; text-align: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><span
-                            class="Apple-style-span"
-                            style="color: rgb(46, 46, 46); "></span></span></font></p>
-                    <h1 style="width: 497px;"><font color="#F6862D" face="Verdana">OS<br>
-                      </font></h1>
-                    <font face="Verdana"><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">
-                        Vi består af innovative designere og software udviklere. Kvaliteten af vores holdmedlemmer garantere at hvert et enkelt udviklings process, lige fra ideen, til design, til implementering og testning bliver udført korrekt. <br>
-                        <br>
-                        Vores ingeniører og designere vil lytte til dine krav og vil derfor udvikle og forsørge dig en top kvalitets løsning, alt efter om du kun vil have klient applikationen (iPhone eller iPad), server eller begge dele.<br>
-                        <br>
-                      </span></font>
-                    <h1 style="width: 497px;"><font color="#F6862D" face="Verdana">Hvor vi befinder os<br>
-                      </font></h1>
-                    <font face="Verdana"><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">
-                        <strong>Despotsoft</strong> er et firma i København, Danmark med kontorer i Serbien. Vores klienter er verden over og vores forretning er global. </span></font><br>
-                    <h1 style="width: 497px;"><br>
-                      <font color="#F6862D" face="Verdana"></font></h1>
-                    <h1 style="width: 497px;"><font color="#F6862D" face="Verdana">What
-                        are our strenghts<br>
-                      </font></h1>
-                    <font face="Verdana"><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">
-                        <strong>Despotsoft</strong> er et lille firma med store ekspertise indenfor forskellige software udviklings områder. Vores hovedpunkt er at udvikle en applikationer til Apple App Store. Ved at være et småt firma, med massere af erfaring giver det os mulighed for at gøre positionen  lettere og hurtigere alt efter hvordan omstændighederne er ude på markedet.<br>
-                      </span></font><font face="Verdana"><span class="Apple-style-span"
-                        style="border-collapse: separate; color: rgb(0, 0, 0); font-family: Arial, FreeSans, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 300; letter-spacing: normal; line-height: 21px; orphans: 2; text-align: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><span
-                          class="Apple-style-span"
-                          style="color: rgb(46, 46, 46); "><br>
-                        </span></span></font>
-                    <p style="width: 783px;" align="justify"></p>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-            <div id="ft">
-              <p align="right">Despotsoft 2011</p>
-            </div>
+          <div id="images" style="width: 783px; margin-left: auto; margin-right: auto; margin-top: 0px; position:relative; top:-123px;">
+            <ul style="width: 783px;">
+              <li style="width: 40px; float: left; list-style-type: none;">
+                &nbsp; </li>
+              <li style="float: left; list-style-type: none;"> <a style="float: left;"
+                  href="index_da.html">
+                  <img alt="logo" src="home.png"> </a> </li>
+              <li style="width: 77px; float: left; list-style-type: none;">
+                &nbsp; </li>
+              <li style="float: left; list-style-type: none; "> <a style="float: left;"
+                  href="about_da.html">
+                  <img alt="logo" src="about.png"> </a> </li>
+              <li style="width: 77px; float: left; list-style-type: none;">
+                &nbsp; </li>
+              <li style="float: left; list-style-type: none; "> <a style="float: left;"
+                  href="contact_da.html">
+                  <img alt="logo" src="contact.png"> </a> </li>
+              <li style="width: 77px; float: left; list-style-type: none;">
+                &nbsp; </li>
+              <li style="float: left; list-style-type: none; "> <a style="float: left;"
+                  href="jobs_da.html">
+                  <img alt="logo" src="jobs.png"> </a> </li>
+              <li style="width: 79px; float: left; list-style-type: none;">
+                &nbsp; </li>
+              <li style="float: left; list-style-type: none; "> <a style="float: left;"
+                  href="references_da.html">
+                  <img alt="logo" src="references.png"> </a> </li>
+              <li style="width: 80px; float: left; list-style-type: none;">
+                &nbsp; </li>
+              <li style="float: left; list-style-type: none; "> <a style="float: left;"
+                  href="http://cvnav2.dk/">
+                  <img alt="logo" src="cv.png"> </a> </li>
+            </ul>
           </div>
-          <p></p>
-          <p><br>
-          </p>
+          <div style="position:relative; top:-180px;">
+            <ul style="height: 29px;">
+              <li style="width: 47px; float: left; list-style-type: none;">
+                &nbsp; </li>
+              <li style="float: left; list-style-type: none;"> <a style="float: left;"
+                  href="index.html">
+                  <img alt="logo" src="flag_en.png"> </a> </li>
+              <li style="float: left; list-style-type: none;"> <a style="float: left;"
+                  href="index_da.html">
+                  <img alt="logo" src="flag_da.png"> </a> </li>
+            </ul>
+          </div>
         </div>
-        <div id="bd"> </div>
+        <div id="centralContent" style="width: 783px; height: 700px; margin-left: auto; margin-right: auto;">
+          <br>
+          <div id="contentImage" style="display:block; overflow:hidden; background-image: url(home_content.png); width: 100%; height:395px; margin-left: auto; margin-right: auto; margin-top: 0px;">
+            <p style="text-align:justify;">&nbsp; <br>
+            </p>
+          </div>
+          <p style="text-align:justify;">&nbsp; <br>
+          </p>
+          <p style="text-align:justify;"><b>Citelcon</b>, er et selskab der
+            består af udviklere med fokus på strategisk it-arkitektur og
+            softwareudvikling. Vores mål er at dække hele værdikæden ved hjælp
+            af alle synergier og samtidig forbedre din virksomheds evne til at
+            konkurrere. <br>
+            <br>
+            Vi ønsker at stille til rådighed en IT-konsulent der passer til dine
+            behov uanset specifkke krav. I en hurtigt voksende og skiftende
+            verden af ​​IT er evnen til at reagere hurtigt og fleksibelt, en af
+            ​​de vigtigste elementer. Ifølge os kan vi garantere at vores
+            konsulenter kan udføre disse opgaver. <br>
+          </p>
+          <a href="http://www.cancer.dk/stoet+os/virksomheder+mod+kraeft/giv+bidrag/giv+et+bidrag+virksomheder.htm"
+            target="_blank"><img
+              src="8%20BU-webknap-Aug-2011rektangel.jpg">
+          </a>
+          <div id="ft">
+            <p align="left">Citelcon 2011</p>
+          </div>
+        </div>
+        <p></p>
+        <p> </p>
       </div>
-    </div>
-    
+      <div id="bd"> </div>
+      <div id="footer" style="position:relative; bottom:-50px; background-color: #000000; height: 30px;">
+        <div style="background:url('header_2.png') no-repeat left bottom; background-size: cover; height: 100px;">
+        </div>
+        <div style="position: relative; top: 0px; background-color: #000000; height: 30px;"
+          border="0"
+          align="justify">
+          <ul style="width: 500px; height: 30px; margin-left: auto; margin-right: auto;">
+            <li style="float: left; list-style-type: none; padding: 0px 21px 11px 21px;">
+              <a style="float: left;" href=""> <font color="#FFFFFF" face="Verdana">Hjem
+                  </font> </a> </li>
+            <li style="float: left; list-style-type: none; padding: 0px 21px 11px 21px;">
+              <a style="float: left;" href="about_da.html"> <font color="#FFFFFF"
+                  face="Verdana">Om
+                  </font> </a> </li>
+            <li style="float: left; list-style-type: none; padding: 0px 21px 11px 21px;">
+              <a style="float: left;" href="contact_da.html"> <font color="#FFFFFF"
+                  face="Verdana">Kontakt
+                  </font> </a> </li>
+            <li style="float: left; list-style-type: none; padding: 0px 21px 11px 21px;">
+              <a style="float: left;" href="jobs_da.html"> <font color="#FFFFFF"
+                  face="Verdana">Jobs
+                  </font> </a> </li>
+            <li style="float: left; list-style-type: none; padding: 0px 21px 11px 21px;">
+              <a style="float: left;" href="references_da.html"> <font color="#FFFFFF"
+                  face="Verdana">Referencer
+                  </font> </a> </li>
+            <li style="float: left; list-style-type: none; padding: 0px 21px 11px 21px;">
+              <a style="float: left;" href="http://cvnav2.dk/"> <font color="#FFFFFF"
+                  face="Verdana">CV
+                  </font> </a> </li>
+          </ul>
+        </div>
+      </div>
+      <script type="text/javascript">
+							
+							var windowSize =  window.innerHeight;
+							if(windowSize > document.getElementById('centralImage').offsetHeight 
+									+ document.getElementById('centralContent').offsetHeight 
+									+ document.getElementById('footer').offsetHeight){
+									
+                var pos = windowSize - document.getElementById('footer').offsetHeight;
+                
+                document.getElementById('footer').style.width = window.innerWidth+'px';
+								document.getElementById('footer').style.position = 'absolute';
+								document.getElementById('footer').style.bottom = pos + 'px';
+                //								document.getElementById('footer').style.left = '-8px';
+               
+							} else {
+               
+              }
+							
+						</script> </div>
   </body>
 </html>

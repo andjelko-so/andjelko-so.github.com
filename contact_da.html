@@ -501,9 +501,11 @@ a{text-decoration:none}
       </div>
       <div id="bd"> </div>
       <div id="footer" style="position:relative; bottom:-50px; background-color: #000000; height: 30px;">
-        <div style="background:url('header_2.png') no-repeat left bottom; background-size: cover; width: 100%; height: 100px;">
+        <div style="background:url('header_2.png') no-repeat left bottom; background-size: cover; height: 100px;">
         </div>
-        <div style="position: relative; top: 0px;" border="0" align="justify">
+        <div style="position: relative; top: 0px; background-color: #000000; height: 30px;"
+          border="0"
+          align="justify">
           <ul style="width: 500px; height: 30px; margin-left: auto; margin-right: auto;">
             <li style="float: left; list-style-type: none; padding: 0px 21px 11px 21px;">
               <a style="float: left;" href="index_da.html"> <font color="#FFFFFF"
@@ -541,12 +543,8 @@ a{text-decoration:none}
 									+ document.getElementById('centralContent').offsetHeight 
 									+ document.getElementById('footer').offsetHeight){
 								
-                alert(windowSize);
-                
-								alert(document.getElementById('centralImage').offsetHeight 
-									+ document.getElementById('centralContent').offsetHeight 
-									+ document.getElementById('footer').offsetHeight);
-								
+                //              alert(windowSize);
+                					
                 var pos = windowSize - document.getElementById('footer').offsetHeight;
                 
                 document.getElementById('footer').style.width = window.innerWidth+'px';
