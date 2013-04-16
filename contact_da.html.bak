@@ -351,8 +351,7 @@ a{text-decoration:none}
           <div id="upperText" style="background-color: #000000; height: 20px;">
             <div style="width: 783px; margin-left: auto; margin-right: auto;" border="0"
               align="justify">
-              <p><font color="#FFFFFF" face="Verdana"> You are here:
-                  Contact </font></p>
+              <p><font color="#FFFFFF" face="Verdana"> You are here: Contact </font></p>
             </div>
           </div>
           <div id="centralImage" style="width: 783px; margin-left: auto; margin-right: auto; margin-top: 0px;">
@@ -482,7 +481,7 @@ a{text-decoration:none}
                 </tr>
                 <tr>
                   <td> Følg os på LinkedIn </td>
-                  <td> <br>
+                  <td> <img src="logo_2.png" width="170px;"> <br>
                   </td>
                 </tr>
               </tbody>
@@ -501,7 +500,7 @@ a{text-decoration:none}
       </div>
       <div id="bd"> </div>
       <div id="footer" style="position:relative; bottom:-50px; background-color: #000000; height: 30px;">
-        <div style="background:url('header_2.png') no-repeat left bottom; background-size: cover; width: 100%; height: 100px;">
+        <div style="background:url('header_2.png') no-repeat left bottom; background-size: cover; height: 100px;">
         </div>
         <div style="position: relative; top: 0px; background-color: #000000; height: 30px;"
           border="0"
