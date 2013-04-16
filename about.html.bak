@@ -344,15 +344,14 @@ a{text-decoration:none}
 </style><meta content="Citelcon" name="author">
     <meta content="BlueGriffon wysiwyg editor" name="generator">
   </head>
-  <body style=""> 
+  <body style="">
     <div class="yui-t7" id="doc3" style="">
       <div id="hd">
         <div id="header" style="background-color: #C4CACF; height: 111px;">
           <div id="upperText" style="background-color: #000000; height: 20px;">
             <div style="width: 783px; margin-left: auto; margin-right: auto;" border="0"
               align="justify">
-              <p><font color="#FFFFFF" face="Verdana"> You are here:
-                  About </font></p>
+              <p><font color="#FFFFFF" face="Verdana"> You are here: About </font></p>
             </div>
           </div>
           <div id="centralImage" style="width: 783px; height: 144px; margin-left: auto; margin-right: auto; margin-top: 0px;">
@@ -442,6 +441,7 @@ a{text-decoration:none}
           <div id="contentText">
             <h1><font color="#ff0000">About</font></h1>
             <br>
+            <img src="logo.png" align="right" width="300px;">
             <p style="text-align:justify;"> <b>Citelcon</b> is an IT
               consultancy company that benefits from a large network of expert
               IT consultants, where all of them have demonstrated their skill in
@@ -534,5 +534,6 @@ a{text-decoration:none}
         </div>
       </div>
     </div>
+    
   </body>
 </html>

@@ -441,6 +441,7 @@ a{text-decoration:none}
           <div id="contentText">
             <h1><font color="#ff0000">Om</font></h1>
             <br>
+            <img src="logo.png" width="300px;" align="right">
             <p style="text-align:justify;"> <b>Citelcon</b> er en IT
               konsulentvirksomhed der har gavn af et stort netværk af
               IT-konsulenter. Alle af dem har bevist deres evner i succesfulde
@@ -457,7 +458,7 @@ a{text-decoration:none}
               fleksibelt, en af ??de vigtigste elementer. Ifølge os kan vi
               garantere at vores konsulenter kan udføre disse opgaver.<br>
             </p>
-            <p style="text-align:justify;"> <br> 
+            <p style="text-align:justify;"> <br>
               <b>Citelcon</b> strategi er baseret af fire punkter:<br>
               1. Kvalitet af ??det udførte arbejde<br>
               2. Hurtig til at reagere på klienters krav samt behov <br>
@@ -465,8 +466,8 @@ a{text-decoration:none}
               4. Fleksibilitet for vores klienter<br>
             </p>
             <p style="text-align:justify;"> <br>
-              <b>Citelcon</b> har adgang til et stort antal af
-              it-konsulenter i Danmark og hele Europa.<br>
+              <b>Citelcon</b> har adgang til et stort antal af it-konsulenter i
+              Danmark og hele Europa.<br>
               <b>Citelcon</b> har hovedkontor i København og har regional kontor
               i Serbien. </p>
           </div>
@@ -533,5 +534,6 @@ a{text-decoration:none}
         </div>
       </div>
     </div>
+    
   </body>
 </html>
