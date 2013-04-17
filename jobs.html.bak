@@ -351,8 +351,7 @@ a{text-decoration:none}
           <div id="upperText" style="background-color: #000000; height: 20px;">
             <div style="width: 783px; margin-left: auto; margin-right: auto;" border="0"
               align="justify">
-              <p><font color="#FFFFFF" face="Verdana"> You are here:
-                  Jobs </font></p>
+              <p><font color="#FFFFFF" face="Verdana"> You are here: Jobs </font></p>
             </div>
           </div>
           <div id="centralImage" style="width: 783px; margin-left: auto; margin-right: auto; margin-top: 0px;">
@@ -454,12 +453,7 @@ a{text-decoration:none}
           - Project management<br>
           <br>
           <br>
-          <div id="ft">
-            <div> <a href="http://www.cancer.dk/stoet+os/virksomheder+mod+kraeft/giv+bidrag/giv+et+bidrag+virksomheder.htm"
-                target="_blank">
-                <img src="8%20BU-webknap-Aug-2011rektangel.jpg"> </a> </div>
-            <p align="left">Despotsoft 2011</p>
-          </div>
+          
         </div>
         <p></p>
         <p><br>
@@ -488,6 +482,13 @@ a{text-decoration:none}
 							
 						</script>
         <div style="background:url('header_2.png') no-repeat left bottom; background-size: cover; height: 100px;">
+          <div id="ft" style="width: 783px; margin-left: auto; margin-right: auto; position:relative; top: 5px;">
+            <div> <a href="http://www.cancer.dk/stoet+os/virksomheder+mod+kraeft/giv+bidrag/giv+et+bidrag+virksomheder.htm"
+                target="_blank">
+                <img src="8%20BU-webknap-Aug-2011rektangel.jpg"> </a>
+            </div>
+            <p align="left">Despotsoft 2011</p>
+          </div>
         </div>
         <div style="position: relative; top: 0px; background-color: #000000; height: 30px;"
           border="0"

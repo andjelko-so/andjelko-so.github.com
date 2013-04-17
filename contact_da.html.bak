@@ -351,7 +351,8 @@ a{text-decoration:none}
           <div id="upperText" style="background-color: #000000; height: 20px;">
             <div style="width: 783px; margin-left: auto; margin-right: auto;" border="0"
               align="justify">
-              <p><font color="#FFFFFF" face="Verdana"> You are here: Contact </font></p>
+              <p><font color="#FFFFFF" face="Verdana"> You are here:
+                  Contact </font></p>
             </div>
           </div>
           <div id="centralImage" style="width: 783px; margin-left: auto; margin-right: auto; margin-top: 0px;">
@@ -436,7 +437,7 @@ a{text-decoration:none}
             </ul>
           </div>
         </div>
-        <div id="centralContent" style="width: 783px; height: 550px; margin-left: auto; margin-right: auto;">
+        <div id="centralContent" style="width: 783px; margin-left: auto; margin-right: auto;">
           <div style="width: 783px; height:100px;"> </div>
           <h1><font color="#ff0000">Kontakt</font></h1>
           <br>
@@ -481,17 +482,11 @@ a{text-decoration:none}
                 </tr>
                 <tr>
                   <td> Følg os på LinkedIn </td>
-                  <td> <img src="logo_2.png" width="170px;"> <br>
+                  <td align="right"> <img src="logo_2.png" width="170px;"> <br>
                   </td>
                 </tr>
               </tbody>
             </table>
-          </div>
-          <div id="ft">
-            <div> <a href="http://www.cancer.dk/stoet+os/virksomheder+mod+kraeft/giv+bidrag/giv+et+bidrag+virksomheder.htm"
-                target="_blank">
-                <img src="8%20BU-webknap-Aug-2011rektangel.jpg"> </a> </div>
-            <p align="left">Despotsoft 2011</p>
           </div>
         </div>
         <p></p>
@@ -501,6 +496,12 @@ a{text-decoration:none}
       <div id="bd"> </div>
       <div id="footer" style="position:relative; bottom:-50px; background-color: #000000; height: 30px;">
         <div style="background:url('header_2.png') no-repeat left bottom; background-size: cover; height: 100px;">
+          <div id="ft" style="width: 783px; margin-left: auto; margin-right: auto; position:relative; top: 5px;">
+            <div> <a href="http://www.cancer.dk/stoet+os/virksomheder+mod+kraeft/giv+bidrag/giv+et+bidrag+virksomheder.htm"
+                target="_blank">
+                <img src="8%20BU-webknap-Aug-2011rektangel.jpg"> </a> </div>
+            <p align="left">Despotsoft 2011</p>
+          </div>
         </div>
         <div style="position: relative; top: 0px; background-color: #000000; height: 30px;"
           border="0"
