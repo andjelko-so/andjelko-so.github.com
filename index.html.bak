@@ -460,21 +460,21 @@ a{text-decoration:none}
       <div id="footer" style="position:relative; bottom:-80px; background-color: #000000; height: 30px;">
         <script type="text/javascript">
 							
-							var windowSize =  window.innerHeight;
-							if(windowSize > document.getElementById('centralImage').offsetHeight 
-									+ document.getElementById('centralContent').offsetHeight 
-									+ document.getElementById('footer').offsetHeight){
+          //							var windowSize =  window.innerHeight;
+					//		if(windowSize > document.getElementById('centralImage').offsetHeight 
+					//				+ document.getElementById('centralContent').offsetHeight 
+					//				+ document.getElementById('footer').offsetHeight){
 									
-                var pos = windowSize - document.getElementById('footer').offsetHeight;
+          //      var pos = windowSize - document.getElementById('footer').offsetHeight;
                 
-                document.getElementById('footer').style.width = window.innerWidth+'px';
-								document.getElementById('footer').style.position = 'absolute';
-								document.getElementById('footer').style.bottom = pos + 'px';
+          //      document.getElementById('footer').style.width = window.innerWidth+'px';
+					//			document.getElementById('footer').style.position = 'absolute';
+					//			document.getElementById('footer').style.bottom = pos + 'px';
                 //								document.getElementById('footer').style.left = '-8px';
                
-							} else {
+					//		} else {
                
-              }
+          //    }
 							
 						</script>
         <div style="background:url('header_2.png') no-repeat left bottom; background-size: cover; height: 100px;">
