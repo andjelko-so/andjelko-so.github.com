@@ -434,7 +434,7 @@ a{text-decoration:none}
             </ul>
           </div>
         </div>
-        <div id="centralContent" style="width: 783px; height: 700px; margin-left: auto; margin-right: auto; ">
+        <div id="centralContent" style="width: 783px; height: 600px; margin-left: auto; margin-right: auto; ">
           <br>
           <div id="contentImage" style="display:block; overflow:hidden; background-image: url(home_content.png); width: 100%; height:395px; margin-left: auto; margin-right: auto; margin-top: 0px;">
             <p style="text-align:justify;">&nbsp; <br>
@@ -454,7 +454,6 @@ a{text-decoration:none}
             is one of the most important tasks. According to or goals, we can
             guarantee that our consultants could fulfill those tasks. <br>
           </p>
-          
         </div>
       </div>
       <div id="bd"> </div>
@@ -482,8 +481,7 @@ a{text-decoration:none}
           <div id="ft" style="width: 783px; margin-left: auto; margin-right: auto; position:relative; top: 5px;">
             <div> <a href="http://www.cancer.dk/stoet+os/virksomheder+mod+kraeft/giv+bidrag/giv+et+bidrag+virksomheder.htm"
                 target="_blank">
-                <img src="8%20BU-webknap-Aug-2011rektangel.jpg"> </a>
-            </div>
+                <img src="8%20BU-webknap-Aug-2011rektangel.jpg"> </a> </div>
             <p align="left">Despotsoft 2011</p>
           </div>
         </div>
@@ -517,5 +515,6 @@ a{text-decoration:none}
         </div>
       </div>
     </div>
+    
   </body>
 </html>
