@@ -390,7 +390,7 @@ a{text-decoration:none}
                     </font> </a> </li>
             </ul>
           </div>
-          <div id="images" style="width: 783px; margin-left: auto; margin-right: auto; margin-top: 0px; position:relative; top:-70px;">
+          <div id="images" style="width: 783px; margin-left: auto; margin-right: auto; margin-top: 0px; position:relative; top:-63px;">
             <ul style="width: 783px;">
               <li style="width: 40px; float: left; list-style-type: none;">
                 &nbsp; </li>
@@ -542,11 +542,11 @@ a{text-decoration:none}
 									+ document.getElementById('centralContent').offsetHeight 
 									+ document.getElementById('footer').offsetHeight){
 								
-                alert(windowSize);
+                //                alert(windowSize);
                 
-								alert(document.getElementById('centralImage').offsetHeight 
-									+ document.getElementById('centralContent').offsetHeight 
-									+ document.getElementById('footer').offsetHeight);
+								//alert(document.getElementById('centralImage').offsetHeight 
+								//	+ document.getElementById('centralContent').offsetHeight 
+                //      + document.getElementById('footer').offsetHeight);
 								
                 var pos = windowSize - document.getElementById('footer').offsetHeight;
                 

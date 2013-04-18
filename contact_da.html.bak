@@ -437,7 +437,7 @@ a{text-decoration:none}
             </ul>
           </div>
         </div>
-        <div id="centralContent" style="width: 783px; margin-left: auto; margin-right: auto;">
+        <div id="centralContent" style="width: 783px; height: 450px; margin-left: auto; margin-right: auto;">
           <div style="width: 783px; height:100px;"> </div>
           <h1><font color="#ff0000">Kontakt</font></h1>
           <br>
