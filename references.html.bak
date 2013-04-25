@@ -446,48 +446,48 @@ a{text-decoration:none}
                 <td class="views-field views-field-field-image" style="border-bottom: 2px gray dotted !important;"
                   align="center"
                   width="261px">
-                  <img src="d_centia.png" alt="SDC"> <br>
-                  <a href="http://www.dicentia.com/"><font color="#ff0000">SDC</font></a>
+                    <a href="http://www.sdc.dk/"><img src="d_centia.png" alt="SDC"></a> <br>
+                  <a href="http://www.sdc.dk/"><font color="#ff0000">SDC</font></a>
                 </td>
                 <td class="views-field views-field-field-image" style="border-bottom: 2px gray dotted !important;"
                   align="center"
                   width="261px">
-                  <img src="topdanmark.png" alt="Topdanmark"> <br>
+                    <a href="http://www2.topdanmark.dk/"><img src="topdanmark.png" alt="Topdanmark"> </a> <br>
                   <a href="http://www2.topdanmark.dk/"><font color="#ff0000">Topdanmark</font></a>
                 </td>
                 <td class="views-field views-field-field-image" style="border-bottom: 2px gray dotted !important;"
                   align="center"
                   width="261px">
-                  <img src="nordea.png" alt="Nordea"> <br>
+                    <a href="http://www.nordea.dk/"><img src="nordea.png" alt="Nordea"></a> <br>
                   <a href="http://www.nordea.dk/"><font color="#ff0000">Nordea</font></a>
                 </td>
               </tr>
               <tr class="odd views-row-first views-row-last" height="270px">
                 <td class="views-field views-field-field-image" style="border-bottom: 2px gray dotted !important;"
                   align="center">
-                  <img src="tryg.png" alt="Tryg"> <br>
+                    <a href="http://www.tryg.com/"><img src="tryg.png" alt="Tryg"></a> <br>
                   <a href="http://www.tryg.com/"><font color="#ff0000">Tryg</font></a>
                 </td>
                 <td class="views-field views-field-field-image" style="border-bottom: 2px gray dotted !important;"
                   align="center">
-                  <img src="cbb.png" alt="CBB Mobil"> <br>
+                    <a href="http://www.cbb.dk/"><img src="cbb.png" alt="CBB Mobil"></a> <br>
                   <a href="http://www.cbb.dk/"><font color="#ff0000">CBB Mobil</font></a>
                 </td>
                 <td class="views-field views-field-field-image" style="border-bottom: 2px gray dotted !important;"
                   align="center">
-                  <img src="valtech.png" alt="Valtech"> <br>
+                    <a href="http://www.valtech.com/com/index.html"><img src="valtech.png" alt="Valtech"></a> <br>
                   <a href="http://www.valtech.com/com/index.html"><font color="#ff0000">Valtech</font></a>
                 </td>
               </tr>
               <tr class="odd views-row-first views-row-last" height="270px">
                 <td class="views-field views-field-field-image" style="border-bottom: 2px gray dotted !important;"
                   align="center">
-                  <img src="zesium.png" alt="Zesium Mobile"> <br>
+                    <a href="http://www.zesium.com/"><img src="zesium.png" alt="Zesium Mobile"></a> <br>
                   <a href="http://www.zesium.com/"><font color="#ff0000">Zesium
                       Mobile</font></a> </td>
                 <td class="views-field views-field-field-image" style="border-bottom: 2px gray dotted !important;"
                   align="center">
-                  <img src="paragraf.png" alt="Paragraf Lex"> <br>
+                    <a href="http://www.paragrafco.co.rs/"><img src="paragraf.png" alt="Paragraf Lex"></a> <br>
                   <a href="http://www.paragrafco.co.rs/"><font color="#ff0000">Paragraf
                       Lex</font></a> </td>
               </tr>
@@ -497,7 +497,7 @@ a{text-decoration:none}
             <div> <a href="http://www.cancer.dk/stoet+os/virksomheder+mod+kraeft/giv+bidrag/giv+et+bidrag+virksomheder.htm"
                 target="_blank">
                 <img src="8%20BU-webknap-Aug-2011rektangel.jpg"> </a> </div>
-            <p align="left">Despotsoft 2011</p>
+            <p align="left">Citelcon 2011</p>
           </div>
         </div>
         <p></p>
